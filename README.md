@@ -3,7 +3,7 @@
 ![dimensional-pockets-16x-title-new-1](https://github.com/user-attachments/assets/049a228b-b449-4f91-a524-f4d490429957)
 
 
-# DimensionalPocketsII16x
+# Dimensional Pockets II 16x
 Minecraft faithful 16x textures for the Dimensional Pockets II mod.
 
 ## Rationale
