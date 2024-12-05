@@ -3,12 +3,12 @@
 ![dimensional-pockets-16x-title-new-1](https://github.com/user-attachments/assets/049a228b-b449-4f91-a524-f4d490429957)
 
 
-# Dimensional Pockets II 16x
+# Dimensional Pockets II 16x Resource Pack
 
-### **Introduction**
+### Introduction
 Minecraft faithful 16x textures for the Dimensional Pockets II mod.
 
-### **Rationale**
+### Rationale
 Dimensional Pockets II has native 32x textures as we feel that they allow for extra detail whilst not being completely immersion shattering.
 
 Understandably however, many players wish for the mod to be more faithful to Minecraft's art style hence the existence of this pack.
@@ -17,7 +17,10 @@ Understandably however, many players wish for the mod to be more faithful to Min
 This pack requires **Dimensional Pockets II**. Without which this pack will do _nothing_.
 
 ### Mod Pages
-Dimensional Pockets II 16x on [CurseForge](https://minecraft.curseforge.com/projects/dimensional-pockets-ii-16x)
-Dimensional Pockets II 16x on [Modrinth](https://modrinth.com/mod/dimensional-pockets-ii-16x)
+- Dimensional Pockets II 16x on [CurseForge](https://minecraft.curseforge.com/projects/dimensional-pockets-ii-16x)
+- Dimensional Pockets II 16x on [Modrinth](https://modrinth.com/mod/dimensional-pockets-ii-16x)
+
+## The Cosmos Series
+This mod is part of [The Cosmos Series](https://www.github.com/TheCosmosSeries)
 
 | 2024 @ TheCosmicNebula | The Cosmos Series | All Rights Reserved (Except Where Specified) |
