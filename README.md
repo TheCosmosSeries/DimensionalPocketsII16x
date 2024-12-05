@@ -21,6 +21,6 @@ This pack requires **Dimensional Pockets II**. Without which this pack will do _
 - Dimensional Pockets II 16x on [Modrinth](https://modrinth.com/mod/dimensional-pockets-ii-16x)
 
 ## The Cosmos Series
-This mod is part of [The Cosmos Series](https://www.github.com/TheCosmosSeries)
+This pack is part of [The Cosmos Series](https://www.github.com/TheCosmosSeries).
 
 | 2024 @ TheCosmicNebula | The Cosmos Series | All Rights Reserved (Except Where Specified) |
