@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/VERSION-1.20.1-success?style=for-the-badge) ![Repo Size](https://img.shields.io/github/repo-size/TheCosmosSeries/DimensionalPocketsII16x?label=REPO%20SIZE&style=for-the-badge) ![Open Issues](https://img.shields.io/github/issues/TheCosmosSeries/DimensionalPocketsII16x?style=for-the-badge) ![Closed Issues](https://img.shields.io/github/issues-closed/TheCosmosSeries/DimensionalPocketsII16x?color=green&style=for-the-badge)
+![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Repo Size](https://img.shields.io/github/repo-size/TheCosmosSeries/DimensionalPocketsII16x?label=REPO%20SIZE&style=for-the-badge) ![Open Issues](https://img.shields.io/github/issues/TheCosmosSeries/DimensionalPocketsII16x?style=for-the-badge) ![Closed Issues](https://img.shields.io/github/issues-closed/TheCosmosSeries/DimensionalPocketsII16x?color=green&style=for-the-badge)
 
 ![dimensional-pockets-16x-title-new-1](https://github.com/user-attachments/assets/049a228b-b449-4f91-a524-f4d490429957)
 
