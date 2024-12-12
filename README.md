@@ -6,7 +6,7 @@
 # Dimensional Pockets II 16x Resource Pack
 
 ### Introduction
-Minecraft faithful 16x textures for the Dimensional Pockets II mod.
+Minecraft faithful 16x textures for the [Dimensional Pockets II](https://github.com/TheCosmosSeries/DimensionalPocketsII) mod.
 
 ### Rationale
 Dimensional Pockets II has native 32x textures as we feel that they allow for extra detail whilst not being completely immersion shattering.
